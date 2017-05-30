@@ -3,7 +3,7 @@
 // Author      : andresf24
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Simple Link List
 //============================================================================
 
 /* Include libraries */
