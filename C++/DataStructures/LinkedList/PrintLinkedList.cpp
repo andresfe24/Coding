@@ -26,7 +26,9 @@ struct node
 };
 
 /* Methods Definitions */
-/* Print Linked List */
+/* 
+ * \brief Print Linked List 
+ */
 void printLinkedList(node *p)
 {
 	/* Check that root is not null */
